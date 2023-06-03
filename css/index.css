@@ -8,6 +8,18 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+.body table {
+    justify-content: center;
+    align-content: center;
+    text-align: justify;
+    min-width: 100%;
+
+}
+table, th, td {
+  border: 1px solid;
+}
+
 .container {
   max-width: 1170px;
   margin: auto;
